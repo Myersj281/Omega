@@ -1,0 +1,17 @@
+name: Omega
+version: 0.1.0
+
+# authors:
+#   - Joshua Myers <myersj281@gmx.com>
+
+ description: |
+   Omega is a kernel written in Crystal and Assembly
+
+ dependencies:
+   LibO:
+     github: Myersj281/LibO
+     version: "~> 0.1.0"
+
+ development_dependencies:
+
+ license: MIT
