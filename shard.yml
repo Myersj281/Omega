@@ -1,8 +1,8 @@
 name: Omega
 version: 0.1.0
 
-# authors:
-#   - Joshua Myers <myersj281@gmx.com>
+ authors:
+   - Joshua Myers <myersj281@gmx.com>
 
  description: |
    Omega is a kernel written in Crystal and Assembly
